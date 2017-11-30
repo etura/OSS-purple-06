@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -27,4 +27,4 @@
 두번째, 오른쪽 위 메뉴 버튼을 눌러 Cardnews 생성을 골라보세요!
 
 세번째, 제목을 정하고 사진을 정해서 공유하면 끝!" />
-</RelativeLayout>
+</LinearLayout>
